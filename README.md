@@ -2,11 +2,12 @@
 ## Overview
 
 ## 🚀 Key Features
-- ** **
-- ** **  
-- ** **
-- ** **
-- ** **
+- ** Explore a Vast Collection of Quotes **
+- ** User-Friendly Interface **  
+- ** Category-Based Organization **
+- ** Share Your Favorites **
+- ** Bookmark Your Favorites **
+- ** Daily Quote Notifications **
 
 ## 🤝 Connect with Me
 Let's chat about potential projects, job opportunities, or any other collaboration! Feel free to connect with me through the following channels:
